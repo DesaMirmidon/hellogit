@@ -1,0 +1,29 @@
+[33mcommit 2381c5519ea8dc2e4cb34b51de53d2e8875da7aa[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mlogin[m[33m)[m
+Author: unknown <jgarcia@inpi.gob.ar>
+Date:   Fri Mar 10 08:07:38 2023 -0300
+
+    Este es mi quinto commit
+
+[33mcommit b6b5cce1edaacd20ba6aa60b13a514a7e47b5f6e[m[33m ([m[1;33mtag: clase_1[m[33m, [m[1;32mmain[m[33m)[m
+Author: unknown <jgarcia@inpi.gob.ar>
+Date:   Thu Mar 9 09:54:45 2023 -0300
+
+    se añade el .gitignore
+
+[33mcommit f77065e764824e8961652e1355290428f1b8b1b0[m
+Author: unknown <jgarcia@inpi.gob.ar>
+Date:   Thu Mar 9 09:44:34 2023 -0300
+
+    se actualiza el texto del print
+
+[33mcommit 3d832642b49093dbfea076789d9c0bc689f9610f[m
+Author: unknown <jgarcia@inpi.gob.ar>
+Date:   Thu Mar 9 09:36:37 2023 -0300
+
+    este es mi segundo commit
+
+[33mcommit cde3ba86d07b743c2d36b7b755e15f87b82d039d[m
+Author: unknown <jgarcia@inpi.gob.ar>
+Date:   Thu Mar 9 09:31:26 2023 -0300
+
+    Este es mi primer commit
